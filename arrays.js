@@ -18,3 +18,6 @@ function accessElementInArray(array,index){
   var array =[3]
   return array[0]
 }
+function destructivelyRemoveElementFromBeginningOfArray(array,element){
+  
+}
