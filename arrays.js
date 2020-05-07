@@ -23,7 +23,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   return array
 }
 function removeElementFromBeginningOfArray(array){
-  var array = ['1','2','3']
+  var array = [1,2,3]
   array.slice(1)
   return array
 }
